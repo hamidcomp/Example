@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Form For Registration</title> 
+<title>Registration Form</title> 
 </head>
 <body bgcolor="pink">
 <form method="POST">
