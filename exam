@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Form For Registration</title> 
+</head>
+<body bgcolor="pink">
+<form method="POST">
+<table border="0">
+<tr><td>First Name</td><td><input type="text" name="fn" placeholder="Enter your Fname"></td></tr>
+<tr><td>Last Name</td><td> <input type="text" name="ln" placeholder="Enter your Lname"></td></tr>
+<tr><td>Salary</td><td> <input type="number"></td></tr>
+<tr><td>username</td><td> <input type="text"name="un"></td></tr>
+<tr><td>password</td><td> <input type="password" name="p"></td></tr>
+<tr><td>DOB </td><td><input type="date"></td></tr>
+ 
+<tr><td>Gender </td> <td><input type="radio" name="g">M <input type="radio" name="g">F</td></tr>
+<tr><td>What do you like?</td><td></td></tr>
+<tr><td></td><td><input type="checkbox"> Swiming</td></tr>
+<tr><td></td><td><input type="checkbox"> Playing</td></tr>
+<tr><td></td><td><input type="checkbox"> Reading</td></tr>
+<tr><td><input type="submit" value="register"></td><td><input type="reset" value="cancel"></td></tr>
+</form>
+</body>
+</html>
